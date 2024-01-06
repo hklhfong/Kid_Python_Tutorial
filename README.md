@@ -12,7 +12,7 @@ Welcome to the Kid's Playful Git Playground! This project is designed to introdu
 ## Getting Started
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/kids-git-playground/playground.git](https://github.com/hklhfong/Playground.git)
+   git clone https://github.com/hklhfong/Playground.git
    ```
 
 2. **Explore the Activities:**
